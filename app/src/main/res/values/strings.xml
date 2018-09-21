@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UDiagnose</string>
+    <string name="search_here">Search here</string>
+    <string name="what_are_your_symptoms">What are your symptoms?</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="you_have_reached_the_maximum_symptom_count">You have reached the maximum symptom count</string>
+    <string name="next">Next</string>
+</resources>
